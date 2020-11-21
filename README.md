@@ -1,6 +1,6 @@
 <title>انگیزه نامه</title>
 
-<body style="background-color:powderblue;">
+<body style="background-color:pink;">
 <h1 style="text-align:center;">in the name of god</h1>
 <pre style="text-align:center;">
 sop
