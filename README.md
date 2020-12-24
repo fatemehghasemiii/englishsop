@@ -15,11 +15,14 @@ My most important goal is to use all of my ability to become a professional netw
 <p style="text-align:center;">
 Plan
 <br>
-I am currently studying for a bachelors degree at payame Noor university. 
+I am currently studying for a bachelors degree at payame Noor university.
+  <br>
 My plan for the future is to achieve a suitable academic degree and employment in my field of study. 
+  <br>
 I intend to reach high levels with a lot of effort and trying.
 <p style="text-align:center;">
 Personality 
 <br>
 One of my behavioral personality is being curious and patiece and this couse me to be interested in this field and follow that. 
+  <br>
 Helping others, such as my friends and familiar makes me happy.
