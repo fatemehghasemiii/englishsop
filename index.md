@@ -51,4 +51,8 @@ With the knowledge I gained, I can offer useful and practical programs
 Apart from my studies and work, my hobbies and interests
 <br>
 Music, sports, computers, virtual worlds, movies, photography  
+<br>
 <p style="text-align:center;">
+My own special ability that I need the university to be aware of.
+<br>
+Teaching most computer courses.
