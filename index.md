@@ -1,5 +1,5 @@
 <title>sop</title>
-<body style="background-color:pink;">
+<body style="background-color:powderblue;">
 <h1 style="text-align:center;">in the name of god</h1>
 <pre style="text-align:center;">
 sop
