@@ -6,6 +6,7 @@ sop
 fatemeh ghasemi 
 Computer engineering major
 </pre>
+<p style="text-align:center;">
 I am currently studying for a bachelor's degree at Payame Noor University
 That's why I chose this university 
 Because of my interest in this field, I want to become a professional programmer so that I can be useful for myself and the community.
